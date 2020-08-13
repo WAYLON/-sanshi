@@ -1,0 +1,11 @@
+${AnsiColor.BRIGHT_BLUE}
+Application Version: ${sanshi.version}
+Spring Boot Version: ${spring-boot.version}
+
+                       _     _
+                      | |   (_)
+ ___  __ _ _ __    ___| |__  _
+/ __|/ _` | '_ \  / __| '_ \| |
+\__ \ (_| | | | | \__ \ | | | |
+|___/\__,_|_| |_| |___/_| |_|_|
+
