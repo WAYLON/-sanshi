@@ -8,10 +8,10 @@ sanshi:
   copyrightYear: 2019
   # 实例演示开关
   demoEnabled: true
-  # 文件路径 示例（ Windows配置D:/sanshi/uploadPath，Linux配置 /home/sanshi/uploadPath）
-  profile: D:/sanshi/uploadPath
+  # 文件路径,使用jvm系统变量,兼容windows和linux
+  profile: ${user.home}/sanshi/uploadPath
   # 获取ip地址开关
-  addressEnabled: false
+  addressEnabled: true
   # 验证码类型 math 数组计算 char 字符验证
   captchaType: math
 
